@@ -1,2 +1,3 @@
 # DSA-
-DSA coding in java
+
+this is parctice DSA coding in java
